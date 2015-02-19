@@ -40,4 +40,3 @@ Then (and only after fully completing the above, not before), create another
 version of RodCutter that will use techniques to shorten the
 time to compute the result. The two versions must produce the same result,
 just their computations efficiencies must be different.
-
